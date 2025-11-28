@@ -11,7 +11,7 @@ This repository contains all my laboratory work, assignments, and projects for t
 * **Key Focus Areas:**
     * [KEY TOPIC 1, e.g., Advanced Excel using (Functions, Graphs, Macros)]
     * [KEY TOPIC 2, e.g., Database Design (Microsoft Access, [Vertabelo](https://www.red-gate.com/products/redgate-data-modeler/))]
-    * [KEY TOPIC 3, e.g., soon]
+    * [KEY TOPIC 3, e.g., SQL (Queries) (How to write SQL queries to get data from DB]
     * [KEY TOPIC 4, e.g., soon]
 
 ## 🧪 Laboratory Work and Assignments
@@ -20,7 +20,7 @@ The table below provides a quick overview and links to each completed assignment
 
 | Lab No. | Folder | Topic/Goal | Status | Solution Files |
 | :---: | :---: | :--- | :---: | :---: |
-| **1** | `Lab01-Setup` | Initial database setup and basic DDL/DML. | Completed | [Link to Lab 01](./Lab01-Setup) |
+| **1** | `Lab01-INTRO` | Introduction to subject, main ideas, rules. | Completed | [Link to Lab 01](./Lab01-INTRO) |
 | **2** | `[FOLDER NAME]` | [Brief description of Lab 2] | Completed | [Link to Lab 02](./[FOLDER NAME]) |
 | **3** | `[FOLDER NAME]` | [Brief description of Lab 3] | Completed | [Link to Lab 03](./[FOLDER NAME]) |
 | **[FINAL]** | `Final-Project` | [Final Project Title, e.g., E-commerce Schema Design] | Completed | [Link to Final Project](./Final-Project) |
