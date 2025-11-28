@@ -24,21 +24,31 @@ To view the files correctly, ensure you have:
 * A PDF Viewer (for reports)
 
 ---
-
 ## 🧪 Laboratory Work
 
-| Lab | Topic | Key Concepts / Skills | Link |
-| :-: | :--- | :--- | :-: |
-| **01** | **Intro** | Introduction to subject & rules | [📂](./Lab01-INTRO) |
-| **02** | **Git** | Version control basics (GitHub) | [📂](./Lab02-GIT) |
-| **03** | **Excel I** | Basic formulas & formatting | [📂](./Lab03-EXCEL) |
-| **04** | **Excel II** | Conditional formatting & Data validation | [📂](./Lab04-EXCEL) |
-| **05** | **Excel III** | Logical functions & Lookups | [📂](./Lab05-EXCEL) |
-| **06** | **Excel IV** | Pivot Tables & Dashboards | [📂](./Lab06-EXCEL) |
-| **07** | **Excel V** | Macros & Solver Add-in | [📂](./Lab07-EXCEL) |
-| **08** | **Databases** | ERD Design & Relationships | [📂](./Lab08-DATABASES) |
-| **09** | **SQL** | Basic Queries (`SELECT`, `JOIN`) | [📂](./Lab09-SQL) |
-| **Final** | **Project** | Full Database System Design | [📂](./Final-Project) |
+The course work is divided into two main technical modules.
+
+### 📊 Module 1: Advanced Excel & Data Analysis
+*Focus on data manipulation, logical functions, and business intelligence basics.*
+
+| Lab | Topic | Detailed Task Description | Solution |
+| :--: | :--- | :--- | :--: |
+| **01** | **Intro** | Introduction to subject, main ideas, rules. | [📂 View](./Lab01-INTRO) |
+| **02** | **Git** | Basics of version control: `commit`, `push`, and GitHub flow. | [📂 View](./Lab02-GIT) |
+| **03** | **Basics** | Absolute referencing, formatting, and standard arithmetic formulas. | [📂 View](./Lab03-EXCEL) |
+| **04** | **Data Tools** | Conditional Formatting, Data Validation rules, and data cleaning. | [📂 View](./Lab04-EXCEL) |
+| **05** | **Logic** | Using nested `IF`, `AND`, `OR` functions alongside `VLOOKUP`/`HLOOKUP`. | [📂 View](./Lab05-EXCEL) |
+| **06** | **Visuals** | Creating dynamic Pivot Tables, Slicers, and summary Dashboards. | [📂 View](./Lab06-EXCEL) |
+| **07** | **Auto** | Introduction to VBA Macros and Solver add-in for optimization. | [📂 View](./Lab07-EXCEL) |
+
+### 🗄️ Module 2: Databases & SQL
+*Focus on relational theory, schema design, and query writing.*
+
+| Lab | Topic | Detailed Task Description | Solution |
+| :--: | :--- | :--- | :--: |
+| **08** | **Design** | Designing ERD (Entity Relationship Diagrams) and Normalization (1NF-3NF). | [📂 View](./Lab08-DATABASES) |
+| **09** | **SQL** | Writing queries using `SELECT`, `WHERE` filtering, Aggregates, and `JOIN`s. | [📂 View](./Lab09-SQL) |
+| **Final**| **Project** | **Full e-commerce system design:** Conceptual model to physical schema. | [📂 View](./Final-Project) |
 
 ---
 
