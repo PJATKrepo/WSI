@@ -1,0 +1,8 @@
+Hostname: db-oracle.pjwstk.edu.pl
+
+service: baza.pjwstk.edu.pl
+
+pass: oracle12
+
+https://bss.pja.edu.pl/en/docs/students/windows/sqldeveloper/
+https://bss.pja.edu.pl/en/docs/students/windows/oracle_datagrip/
