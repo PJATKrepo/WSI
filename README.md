@@ -41,7 +41,7 @@ To view the files correctly, ensure you have:
 | **07** | **Excel V** | Macros & Solver Add-in | [📂](./Lab07-EXCEL) |
 | **08** | **Databases** | ERD Design & Relationships | [📂](./Lab08-DATABASES) |
 | **09** | **SQL** | Basic Queries (`SELECT`, `JOIN`) | [📂](./Lab09-SQL) |
-| **Final** | **Project** | Full Database System Design | [📂](./Final-Project) |
+| **Final** | **Project** | Not yet | [📂](./Final-Project) |
 
 ---
 
